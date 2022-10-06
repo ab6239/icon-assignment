@@ -51,10 +51,14 @@ h4 {
     text-align: center;
 }
 
-figcaption,
 p {
     line-height: 1.5em;
     font-size: 1.2em;
+}
+
+figcaption {
+  font-size: 1.1em;
+  line-height: 1.5em;
 }
 
 hr {
